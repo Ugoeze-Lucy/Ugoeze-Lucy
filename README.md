@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ugoeze-Lucy
-- 👀 I’m interested in sales and product analysis
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on business, sales and data analysis projects
+- 👀 I use AI and data to solve public health problems
+- 🌱 I’m currently working on personal projects related to bublic health
+- 💞️ I’m looking to collaborate on public data projects
 - 📫 How to reach me zinalucy@gmail.com
 
 <!---
