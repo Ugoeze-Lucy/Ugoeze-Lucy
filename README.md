@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ugoeze-Lucy
 - 👀 I use AI and data to solve public health problems
-- 🌱 I’m currently working on personal projects related to bublic health
+- 🌱 I’m currently working on personal projects related to public health
 - 💞️ I’m looking to collaborate on public data projects
 - 📫 How to reach me zinalucy@gmail.com
 
